@@ -4,5 +4,5 @@
 #
 #    pip-compile --no-emit-index-url --output-file=requirements.txt requirements.in
 #
-pillow==8.4.0
+pillow==9.3.0
     # via -r requirements.in
