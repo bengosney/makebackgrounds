@@ -8,7 +8,7 @@ asttokens==2.0.5
     # via icecream
 attrs==21.2.0
     # via pytest
-backports.entry-points-selectable==1.1.0
+backports-entry-points-selectable==1.1.0
     # via virtualenv
 black==21.9b0
     # via -r requirements.dev.in
@@ -80,7 +80,7 @@ typing-extensions==3.10.0.2
     # via black
 virtualenv==20.9.0
     # via pre-commit
-wheel==0.37.0
+wheel==0.38.1
     # via pip-tools
 
 # The following packages are considered to be unsafe in a requirements file:
